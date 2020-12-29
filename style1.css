@@ -1,0 +1,7 @@
+.container{
+	display:flex;
+}
+
+.card{
+	width:50%;
+}
